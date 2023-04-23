@@ -1,0 +1,29 @@
+PULL
+
+Open vs code and install git lens
+Create 3 .html files
+In vs code terminal:
+git --version
+git init
+git status
+git add
+git commit -m "sample txt"
+Create repo in github and copy https link 
+git remote add origin "repo link"
+git push -u origin main (error)
+Sign in with gitlens
+git push repo link
+Pop up to github sign in
+git status
+Refresh github (files pushed)
+
+PUSH
+
+New vs code file
+Terminal:
+git --version
+New folder in vscode
+Terminal:
+git init
+git pull repo link(https) 
+Files pulled
